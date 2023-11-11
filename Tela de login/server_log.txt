@@ -1,0 +1,367 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:48:09] filterscripts = ""  (string)
+[13:48:09] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:48:10] filterscripts = ""  (string)
+[13:48:10] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:48:11] filterscripts = ""  (string)
+[13:48:11] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:48:43] filterscripts = ""  (string)
+[13:48:43] 
+[13:48:43] Server Plugins
+[13:48:43] --------------
+[13:48:43]  Loading plugin: sscanf
+[13:48:43] 
+
+[13:48:43]  ===============================
+
+[13:48:43]       sscanf plugin loaded.     
+
+[13:48:43]          Version:  2.8.3        
+
+[13:48:43]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:48:43]  ===============================
+
+[13:48:43]   Loaded.
+[13:48:43]  Loading plugin: streamer
+[13:48:44]   Failed.
+[13:48:44]  Loaded 1 plugins.
+
+[13:48:44] 
+[13:48:44] Filterscripts
+[13:48:44] ---------------
+[13:48:44]   Loaded 0 filterscripts.
+
+[13:48:44] 
+----------------------------------
+[13:48:44]    Servidor iniciado com sucesso    
+[13:48:44] ----------------------------------
+
+[13:48:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:49:04] filterscripts = ""  (string)
+[13:49:04] 
+[13:49:04] Server Plugins
+[13:49:04] --------------
+[13:49:04]  Loading plugin: sscanf
+[13:49:04] 
+
+[13:49:04]  ===============================
+
+[13:49:04]       sscanf plugin loaded.     
+
+[13:49:04]          Version:  2.8.3        
+
+[13:49:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:49:04]  ===============================
+
+[13:49:04]   Loaded.
+[13:49:04]  Loading plugin: streamer
+[13:49:04] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:49:04]   Loaded.
+[13:49:04]  Loaded 2 plugins.
+
+[13:49:04] 
+[13:49:04] Filterscripts
+[13:49:04] ---------------
+[13:49:04]   Loaded 0 filterscripts.
+
+[13:49:04] 
+----------------------------------
+[13:49:04]    Servidor iniciado com sucesso    
+[13:49:04] ----------------------------------
+
+[13:49:04] Number of vehicle models: 0
+[13:49:26] [connection] incoming connection: 10.0.0.96:50312 id: 0
+[13:49:26] [join] Tochi_ has joined the server (0:10.0.0.96)
+[13:49:30] [part] Tochi_ has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:50:31] filterscripts = ""  (string)
+[13:50:31] 
+[13:50:31] Server Plugins
+[13:50:31] --------------
+[13:50:31]  Loading plugin: sscanf
+[13:50:31] 
+
+[13:50:31]  ===============================
+
+[13:50:31]       sscanf plugin loaded.     
+
+[13:50:31]          Version:  2.8.3        
+
+[13:50:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:50:31]  ===============================
+
+[13:50:31]   Loaded.
+[13:50:31]  Loading plugin: streamer
+[13:50:31] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:50:31]   Loaded.
+[13:50:31]  Loaded 2 plugins.
+
+[13:50:31] 
+[13:50:31] Filterscripts
+[13:50:31] ---------------
+[13:50:31]   Loaded 0 filterscripts.
+
+[13:50:31] 
+----------------------------------
+[13:50:31]    Servidor iniciado com sucesso    
+[13:50:31] ----------------------------------
+
+[13:50:31] Number of vehicle models: 0
+[13:50:43] [connection] incoming connection: 10.0.0.96:52487 id: 0
+[13:50:43] [join] Tochi_ has joined the server (0:10.0.0.96)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:52:50] filterscripts = ""  (string)
+[13:52:50] 
+[13:52:50] Server Plugins
+[13:52:50] --------------
+[13:52:50]  Loading plugin: sscanf
+[13:52:50] 
+
+[13:52:50]  ===============================
+
+[13:52:50]       sscanf plugin loaded.     
+
+[13:52:50]          Version:  2.8.3        
+
+[13:52:50]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:52:50]  ===============================
+
+[13:52:50]   Loaded.
+[13:52:50]  Loading plugin: streamer
+[13:52:50] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:52:50]   Loaded.
+[13:52:50]  Loaded 2 plugins.
+
+[13:52:50] 
+[13:52:50] Filterscripts
+[13:52:50] ---------------
+[13:52:50]   Loaded 0 filterscripts.
+
+[13:52:50] 
+----------------------------------
+[13:52:50]    Servidor iniciado com sucesso    
+[13:52:50] ----------------------------------
+
+[13:52:50] Number of vehicle models: 0
+[13:53:03] [connection] incoming connection: 10.0.0.96:56449 id: 0
+[13:53:03] [join] Tochi_ has joined the server (0:10.0.0.96)
+[13:53:26] [part] Tochi_ has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:54:45] filterscripts = ""  (string)
+[13:54:45] 
+[13:54:45] Server Plugins
+[13:54:45] --------------
+[13:54:45]  Loading plugin: sscanf
+[13:54:45] 
+
+[13:54:45]  ===============================
+
+[13:54:45]       sscanf plugin loaded.     
+
+[13:54:45]          Version:  2.8.3        
+
+[13:54:45]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:54:45]  ===============================
+
+[13:54:45]   Loaded.
+[13:54:45]  Loading plugin: streamer
+[13:54:45] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:54:45]   Loaded.
+[13:54:45]  Loaded 2 plugins.
+
+[13:54:45] 
+[13:54:45] Filterscripts
+[13:54:45] ---------------
+[13:54:45]   Loaded 0 filterscripts.
+
+[13:54:45] 
+----------------------------------
+[13:54:45]    Servidor iniciado com sucesso    
+[13:54:45] ----------------------------------
+
+[13:54:45] Number of vehicle models: 0
+[13:54:58] [connection] incoming connection: 10.0.0.96:63840 id: 0
+[13:54:58] [join] Tochi_ has joined the server (0:10.0.0.96)
+[13:55:18] [part] Tochi_ has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:57:55] filterscripts = ""  (string)
+[13:57:55] 
+[13:57:55] Server Plugins
+[13:57:55] --------------
+[13:57:55]  Loading plugin: sscanf
+[13:57:55] 
+
+[13:57:55]  ===============================
+
+[13:57:55]       sscanf plugin loaded.     
+
+[13:57:55]          Version:  2.8.3        
+
+[13:57:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:57:55]  ===============================
+
+[13:57:55]   Loaded.
+[13:57:55]  Loading plugin: streamer
+[13:57:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:57:55]   Loaded.
+[13:57:55]  Loaded 2 plugins.
+
+[13:57:55] 
+[13:57:55] Filterscripts
+[13:57:55] ---------------
+[13:57:55]   Loaded 0 filterscripts.
+
+[13:57:55] 
+----------------------------------
+[13:57:55]    Servidor iniciado com sucesso    
+[13:57:55] ----------------------------------
+
+[13:57:55] Number of vehicle models: 0
+[13:58:05] [connection] incoming connection: 10.0.0.96:53353 id: 0
+[13:58:05] [join] Tochi_ has joined the server (0:10.0.0.96)
+[13:58:49] [part] Tochi_ has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:59:01] filterscripts = ""  (string)
+[13:59:01] 
+[13:59:01] Server Plugins
+[13:59:01] --------------
+[13:59:01]  Loading plugin: sscanf
+[13:59:01] 
+
+[13:59:01]  ===============================
+
+[13:59:01]       sscanf plugin loaded.     
+
+[13:59:01]          Version:  2.8.3        
+
+[13:59:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:59:01]  ===============================
+
+[13:59:01]   Loaded.
+[13:59:01]  Loading plugin: streamer
+[13:59:01] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:59:01]   Loaded.
+[13:59:01]  Loaded 2 plugins.
+
+[13:59:01] 
+[13:59:01] Filterscripts
+[13:59:01] ---------------
+[13:59:01]   Loaded 0 filterscripts.
+
+[13:59:01] 
+----------------------------------
+[13:59:01]    Servidor iniciado com sucesso    
+[13:59:01] ----------------------------------
+
+[13:59:01] Number of vehicle models: 0
+[13:59:13] [connection] incoming connection: 10.0.0.96:63964 id: 0
+[13:59:13] [join] Tochi_ has joined the server (0:10.0.0.96)
